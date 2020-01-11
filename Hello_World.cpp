@@ -1,3 +1,7 @@
+/*
+ * Hello World in C++ version
+ */
+
 #include <iostream>
 
 int main()
